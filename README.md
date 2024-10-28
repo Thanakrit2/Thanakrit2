@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me leoasawasuwannakul@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: From Northen Thailand 
+- ⚡ Fun fact: From Northern Thailand 
 
 <!---
 Thanakrit2/Thanakrit2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
